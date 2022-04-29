@@ -4,11 +4,8 @@
 [![GitHub last commit][ico-last-commit]][link-last-commit]
 [![License: MPL 2.0][ico-license]][link-license]
 
-Insert bullets description of the project if available.
+Scoala Pentru (also named Scoala de Participare Civică) is a project aimed to connect groups of children with different extracurricular activities in many areas such as environment, civic education, music education and much more. The platform must allow for NGOs and public institutions to publish their events, caravans or various other activities and Teachers or School Managers may register themselves together with groups of Students to participate in these events. The application allows for groups and individual students to keep track of their participation activities. 
 
-[See the project live][link-production]
-
-Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project.
 
 [Contributing](#contributing) | [Built with](#built-with) | [Repos and projects](#repos-and-projects) | [Deployment](#deployment) | [Feedback](#feedback) | [License](#license) | [About Code for Romania](#about-code-for-romania)
 
@@ -21,20 +18,23 @@ Help us out by testing this project in the [staging environment][link-staging]. 
 If you would like to suggest new functionality, open an Issue and mark it as a __[Feature request]__. Please be specific about why you think this functionality will be of use. If you can, please include some visual description of what you would like the UI to look like, if you are suggesting new UI elements.
 
 ## Built With
+TBD
 
 ### Programming languages
+TBD
 
 ### Platforms
+TBD
 
 ### Frontend framework
+TBD
 
 ### Package managers
+TBD
 
 ### Database technology & provider
 
 ## Repos and projects
-
-Mention all related repos and projects.
 
 ## Deployment
 
